@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dksarkar1.github.io/loansaathi/sitemap.xml
